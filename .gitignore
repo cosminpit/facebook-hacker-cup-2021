@@ -1,0 +1,17 @@
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# Unignore all dirs
+!*/
+
+# Ignore all hidden files and folders
+.*
+
+# Unignore this file
+!/.gitignore
+
+# Ignore debugging symbols
+*.dSYM
